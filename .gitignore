@@ -9,7 +9,7 @@ models/
 # Ignore training histories / logs
 histories/
 *.log
-*.csv
+
 
 # Ignore large image datasets
 patch_images/
