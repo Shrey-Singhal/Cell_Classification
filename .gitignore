@@ -1,0 +1,30 @@
+# Ignore model files
+models/
+*.h5
+*.pth
+*.pt
+*.pkl
+*.joblib
+
+# Ignore training histories / logs
+histories/
+*.log
+*.csv
+
+# Ignore large image datasets
+patch_images/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS / IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
